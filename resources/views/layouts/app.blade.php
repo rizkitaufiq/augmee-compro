@@ -22,6 +22,11 @@
 </head>
 
 <body class="rt_bg-secondary">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
     {{-- Header --}}
     @include('layouts.header')
 
@@ -33,5 +38,20 @@
     {{-- Footer --}}
     @include('layouts.footer')
 </body>
+
+<script>
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function(e) {
+            e.preventDefault();
+
+            const target = document.querySelector(this.getAttribute("href"));
+            if (target) {
+                target.scrollIntoView({
+                    behavior: "smooth"
+                });
+            }
+        });
+    });
+</script>
 
 </html>

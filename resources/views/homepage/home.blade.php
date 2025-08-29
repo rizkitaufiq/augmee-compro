@@ -38,8 +38,6 @@
                 <div class="col-xl-5 d-xl-block d-none">
                     <div class="main-menu-wrapepr">
 
-
-
                         <nav class="mainmenu-nav d-none d-xl-block">
                             <ul class="main-menu">
                                 <li class="single-items">
@@ -162,7 +160,6 @@
     <!-- ENd Header Area -->
 
     <!-- start Mobile menue -->
-
 
     <!-- mobile menu start -->
     <div class="popup-mobile-menu">

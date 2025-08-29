@@ -1,5 +1,5 @@
     <!-- start Footer area -->
-    <div class="rts-footer-area bg-shape-footer pt--120 rt_bg-secondary">
+    <div class="rts-footer-area bg-shape-footer pt--120 rt_bg-secondary" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-md-6 col-sm-12 mb_sm--30 ">
