@@ -1,6 +1,6 @@
 <!-- start header area -->
 
-<div class="rts-header-area header-inner-one header-two header--sticky">
+<div class="rts-header-area header-inner-one header-two header--sticky" style="background-color: mediumslateblue">
     <div class="container-header">
         <div class="row align-items-center ptb_sm--20 padding-controler-header">
 
@@ -9,7 +9,7 @@
                 <!-- Logo -->
                 <div>
                     <a href="#" class="logo">
-                        <img src="assets/images/logo/brand/augmee-transparent.png" loading="lazy"
+                        <img loading="lazy" src="assets/images/logo/brand/augmee-transparent.png"
                             style="width: 120px; height: auto;" alt="NFT_image">
                     </a>
                 </div>

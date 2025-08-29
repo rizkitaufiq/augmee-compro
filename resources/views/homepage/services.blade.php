@@ -1,5 +1,5 @@
 {{-- start services --}}
-<div class="rts-b-creator-area rts-section-gapTop" id="services">
+<section class="rts-b-creator-area rts-section-gapTop" id="services">
     <div class="container">
         <div class="row g-5">
             <!-- single step start -->
@@ -8,7 +8,7 @@
                 <div class="single-create" data-sal-delay="300" data-sal-duration="800" data-sal="slide-up">
                     <div class="wrapper">
                         <div class="thumb-ico">
-                            <img src="assets/images/icon/3d/049-vr.png" alt="NFT-create-process">
+                            <img src="assets/images/icon/3d/049-vr.png" loading="lazy" alt="NFT-create-process">
                         </div>
                         <h6 class="title">Augmented Reality</h6>
                     </div>
@@ -21,7 +21,8 @@
                 <div class="single-create" data-sal-delay="400" data-sal-duration="800" data-sal="slide-up">
                     <div class="wrapper">
                         <div class="thumb-ico">
-                            <img src="assets/images/icon/3d/041-virtual reality glasses.png" alt="NFT-create-process">
+                            <img src="assets/images/icon/3d/041-virtual reality glasses.png" loading="lazy"
+                                alt="NFT-create-process">
                         </div>
                         <h6 class="title">Virtual Reality</h6>
                     </div>
@@ -34,7 +35,7 @@
                 <div class="single-create" data-sal-delay="500" data-sal-duration="800" data-sal="slide-up">
                     <div class="wrapper">
                         <div class="thumb-ico">
-                            <img src="assets/images/icon/3d/042-360 degree.png" alt="NFT-create-process">
+                            <img src="assets/images/icon/3d/042-360 degree.png" loading="lazy" alt="NFT-create-process">
                         </div>
                         <h6 class="title">3D Modeling</h6>
                     </div>
@@ -47,7 +48,7 @@
                 <div class="single-create" data-sal-delay="500" data-sal-duration="800" data-sal="slide-up">
                     <div class="wrapper">
                         <div class="thumb-ico">
-                            <img src="assets/images/icon/3d/033-game.png" alt="NFT-create-process">
+                            <img src="assets/images/icon/3d/033-game.png" loading="lazy" alt="NFT-create-process">
                         </div>
                         <h6 class="title">Game Development</h6>
                     </div>
@@ -70,6 +71,6 @@
 
         </div>
     </div>
-</div>
+</section>
 <!-- become a creator style two End -->
 {{-- end services --}}

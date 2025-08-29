@@ -1,107 +1,52 @@
 <!-- start portfolio items -->
-<div class="live-tranding-area tranding_bg-shape rts-section-gapBottom rt_bg-secondary" id="portfolio">
+<section class="live-tranding-area tranding_bg-shape rts-section-gapBottom rt_bg-secondary" id="portfolio">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <div class="title-area text-center">
+                <header class="title-area text-center">
                     <h3 class="title">Portfolio</h3>
-                </div>
+                </header>
             </div>
         </div>
         <div class="row mt--50">
             <div class="col-12">
                 <div class="swiper-container mySwiper">
                     <div class="swiper-wrapper">
+
                         <div class="swiper-slide">
                             <!-- single slider -->
                             <div class="trending-items_wrapper">
                                 <div class="thumbnail">
-                                    <a href="explore-single.html"><img src="assets/images/product/product-01.png"
-                                            alt="Nft_product"></a>
+                                    <a href="explore-single.html"><img
+                                            src="assets/images/product/game/working-at-heights-training.jpg"
+                                            loading="lazy" alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription">
                                     <div class="product-left">
                                         <h5 class="title">
-                                            Mid
+                                            Working at Heights
+                                            Training
                                         </h5>
-                                        <p class="price">This Virtual Reality simulation trains users on safety
-                                            procedures in confined
-                                            spaces, including checklist verification, oxygen tank inspection, blower
-                                            activation, and gas detection. Interactive controls guide users through each
-
-                                            V step, ensuring proper understanding before starting tasks. irtual Reality
+                                        <p class="price">This Virtual Reality simulation trains users on safety checks
+                                            for scaffolding and
+                                            body harness use, including tagging verification and proper HOK attachment.
+                                            Successfully reaching the top completes the mission.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Place
-                                        Bid</a>
+                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
                                 </div>
                             </div>
                             <!-- single slider End-->
                         </div>
+
                         <div class="swiper-slide">
                             <!-- single slider -->
                             <div class="trending-items_wrapper">
                                 <div class="thumbnail">
-                                    <a href="explore-single.html"><img src="assets/images/product/product-02.png"
-                                            alt="Nft_product"></a>
-                                </div>
-                                <div class="product-discription">
-                                    <div class="product-left">
-                                        <h5 class="title">
-                                            Athestics VR
-                                        </h5>
-                                        <p class="price">This Virtual Reality simulation trains users on safety
-                                            procedures in confined
-                                            spaces, including checklist verification, oxygen tank inspection, blower
-                                            activation, and gas detection. Interactive controls guide users through each
-
-                                            V step, ensuring proper understanding before starting tasks. irtual Reality
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Place
-                                        Bid</a>
-                                </div>
-                            </div>
-                            <!-- single slider End-->
-                        </div>
-                        <div class="swiper-slide">
-                            <!-- single slider -->
-                            <div class="trending-items_wrapper">
-                                <div class="thumbnail">
-                                    <a href="explore-single.html"><img src="assets/images/product/product-03.png"
-                                            alt="Nft_product"></a>
-                                </div>
-                                <div class="product-discription">
-                                    <div class="product-left">
-                                        <h5 class="title">
-                                            Sports VR
-                                        </h5>
-                                        <p class="price">This Virtual Reality simulation trains users on safety
-                                            procedures in confined
-                                            spaces, including checklist verification, oxygen tank inspection, blower
-                                            activation, and gas detection. Interactive controls guide users through each
-
-                                            V step, ensuring proper understanding before starting tasks. irtual Reality
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Place
-                                        Bid</a>
-                                </div>
-                            </div>
-                            <!-- single slider End-->
-                        </div>
-                        <div class="swiper-slide">
-
-                            <!-- single slider -->
-                            <div class="trending-items_wrapper">
-                                <div class="thumbnail">
-                                    <a href="explore-single.html"><img src="assets/images/product/product-01.png"
+                                    <a href="explore-single.html"><img
+                                            src="assets/images/product/game/confined-space-training.jpg" loading="lazy"
                                             alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription">
@@ -119,8 +64,64 @@
                                     </div>
                                 </div>
                                 <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Place
-                                        Bid</a>
+                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
+                                </div>
+                            </div>
+                            <!-- single slider End-->
+                        </div>
+
+                        <div class="swiper-slide">
+                            <!-- single slider -->
+                            <div class="trending-items_wrapper">
+                                <div class="thumbnail">
+                                    <a href="explore-single.html"><img
+                                            src="assets/images/product/game/fire-extingsher-simulation.jpg"
+                                            loading="lazy" alt="Nft_product"></a>
+                                </div>
+                                <div class="product-discription">
+                                    <div class="product-left">
+                                        <h5 class="title">
+                                            Fire Extingsher Simulation
+                                        </h5>
+                                        <p class="price">This Virtual Reality training guides users through the proper
+                                            use of a fire
+                                            extinguisher (APAR), including pin removal, pressure check, and nozzle
+                                            operation. Players must extinguish the fire completely and place the
+                                            V extinguisher horizontally to complete the mission successfully. irtual
+                                            Reality
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="product-right" style="display:flex; justify-content: end;">
+                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
+                                </div>
+                            </div>
+                            <!-- single slider End-->
+                        </div>
+
+                        <div class="swiper-slide">
+
+                            <!-- single slider -->
+                            <div class="trending-items_wrapper">
+                                <div class="thumbnail">
+                                    <a href="explore-single.html"><img
+                                            src="assets/images/product/game/working-at-heights-training.jpg"
+                                            loading="lazy" alt="Nft_product"></a>
+                                </div>
+                                <div class="product-discription">
+                                    <div class="product-left">
+                                        <h5 class="title">
+                                            Working At Heights Training
+                                        </h5>
+                                        <p class="price">This Virtual Reality simulation trains users on safety checks
+                                            for scaffolding and
+                                            body harness use, including tagging verification and proper HOK attachment.
+                                            Successfully reaching the top completes the mission.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="product-right" style="display:flex; justify-content: end;">
+                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
                                 </div>
                             </div>
                             <!-- single slider End-->
@@ -131,5 +132,5 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 <!-- end portfolio items -->
