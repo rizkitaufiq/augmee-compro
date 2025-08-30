@@ -99,33 +99,6 @@
                             <!-- single slider End-->
                         </div>
 
-                        <div class="swiper-slide">
-
-                            <!-- single slider -->
-                            <div class="trending-items_wrapper">
-                                <div class="thumbnail">
-                                    <a href="explore-single.html"><img
-                                            src="assets/images/product/game/working-at-heights-training.jpg"
-                                            loading="lazy" alt="Nft_product"></a>
-                                </div>
-                                <div class="product-discription">
-                                    <div class="product-left" style="margin-bottom: 2rem">
-                                        <h5 class="title">
-                                            Working At Heights Training
-                                        </h5>
-                                        <p class="price">This Virtual Reality simulation trains users on safety checks
-                                            for scaffolding and
-                                            body harness use, including tagging verification and proper HOK attachment.
-                                            Successfully reaching the top completes the mission.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
-                                </div>
-                            </div>
-                            <!-- single slider End-->
-                        </div>
                     </div>
                     <div class="swiper-pagination"></div>
                 </div>
