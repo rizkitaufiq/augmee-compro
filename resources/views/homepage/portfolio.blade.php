@@ -13,21 +13,25 @@
                 <div class="swiper-container mySwiper">
                     <div class="swiper-wrapper">
 
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="height:100%; display:flex;">
                             <!-- single slider -->
-                            <div class="trending-items_wrapper">
+                            <div class="trending-items_wrapper"
+                                style="display:flex; flex-direction:column; justify-content:space-between; height:100%; min-height:450px; padding:1rem; box-sizing:border-box;">
                                 <div class="thumbnail">
                                     <a href="explore-single.html"><img
+                                            style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
                                             src="assets/images/product/game/working-at-heights-training.jpg"
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
-                                <div class="product-discription" style="margin-bottom: 2rem">
+                                <div class="product-discription" style="flex-grow:1; margin:1rem 0;">
                                     <div class="product-left">
-                                        <h5 class="title">
+                                        <h5 class="title" style="margin:0 0 0.5rem 0;">
                                             Working at Heights
                                             Training
                                         </h5>
-                                        <p class="price">This Virtual Reality simulation trains users on safety checks
+                                        <p class="price"
+                                            style="margin:0; font-size:14px; line-height:1.4; text-align:justify;">This
+                                            Virtual Reality simulation trains users on safety checks
                                             for scaffolding and
                                             body harness use, including tagging verification and proper HOK attachment.
                                             Successfully reaching the top completes the mission.
@@ -41,20 +45,24 @@
                             <!-- single slider End-->
                         </div>
 
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="height:100%; display:flex;">
                             <!-- single slider -->
-                            <div class="trending-items_wrapper">
+                            <div class="trending-items_wrapper"
+                                style="display:flex; flex-direction:column; justify-content:space-between; height:100%; min-height:450px; padding:1rem; box-sizing:border-box;">
                                 <div class="thumbnail">
                                     <a href="explore-single.html"><img
+                                            style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
                                             src="assets/images/product/game/confined-space-training.jpg" loading="lazy"
                                             alt="Nft_product"></a>
                                 </div>
-                                <div class="product-discription">
+                                <div class="product-discription" style="flex-grow:1; margin:1rem 0;">
                                     <div class="product-left" style="margin-bottom: 2rem">
-                                        <h5 class="title">
+                                        <h5 class="title" style="margin:0 0 0.5rem 0;">
                                             Confined Space Training
                                         </h5>
-                                        <p class="price">This Virtual Reality simulation trains users on safety
+                                        <p class="price"
+                                            style="margin:0; font-size:14px; line-height:1.4; text-align:justify;">This
+                                            Virtual Reality simulation trains users on safety
                                             procedures in confined
                                             spaces, including checklist verification, oxygen tank inspection, blower
                                             activation, and gas detection. Interactive controls guide users through each
@@ -70,20 +78,24 @@
                             <!-- single slider End-->
                         </div>
 
-                        <div class="swiper-slide">
+                        <div class="swiper-slide" style="height:100%; display:flex;">
                             <!-- single slider -->
-                            <div class="trending-items_wrapper">
+                            <div class="trending-items_wrapper"
+                                style="display:flex; flex-direction:column; justify-content:space-between; height:100%; min-height:450px; padding:1rem; box-sizing:border-box;">
                                 <div class="thumbnail">
                                     <a href="explore-single.html"><img
+                                            style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
                                             src="assets/images/product/game/fire-extingsher-simulation.jpg"
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
-                                <div class="product-discription">
+                                <div class="product-discription" style="flex-grow:1; margin:1rem 0;">
                                     <div class="product-left" style="margin-bottom: 2rem">
-                                        <h5 class="title">
+                                        <h5 class="title" style="margin:0 0 0.5rem 0;">
                                             Fire Extingsher Simulation
                                         </h5>
-                                        <p class="price">This Virtual Reality training guides users through the proper
+                                        <p class="price"
+                                            style="margin:0; font-size:14px; line-height:1.4;text-align:justify;">This
+                                            Virtual Reality training guides users through the proper
                                             use of a fire
                                             extinguisher (APAR), including pin removal, pressure check, and nozzle
                                             operation. Players must extinguish the fire completely and place the
