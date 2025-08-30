@@ -21,7 +21,7 @@
                                             src="assets/images/product/game/working-at-heights-training.jpg"
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
-                                <div class="product-discription">
+                                <div class="product-discription" style="margin-bottom: 2rem">
                                     <div class="product-left">
                                         <h5 class="title">
                                             Working at Heights
@@ -50,7 +50,7 @@
                                             alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription">
-                                    <div class="product-left">
+                                    <div class="product-left" style="margin-bottom: 2rem">
                                         <h5 class="title">
                                             Confined Space Training
                                         </h5>
@@ -79,7 +79,7 @@
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription">
-                                    <div class="product-left">
+                                    <div class="product-left" style="margin-bottom: 2rem">
                                         <h5 class="title">
                                             Fire Extingsher Simulation
                                         </h5>
@@ -109,7 +109,7 @@
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription">
-                                    <div class="product-left">
+                                    <div class="product-left" style="margin-bottom: 2rem">
                                         <h5 class="title">
                                             Working At Heights Training
                                         </h5>
