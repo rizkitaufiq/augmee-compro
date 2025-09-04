@@ -39,7 +39,7 @@
                                     </div>
                                 </div>
                                 <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
+                                    <a href="" class="rts-btn btn-secondary radious-5">Play</a>
                                 </div>
                             </div>
                             <!-- single slider End-->
@@ -72,7 +72,7 @@
                                     </div>
                                 </div>
                                 <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
+                                    <a href="" class="rts-btn btn-secondary radious-5">Play</a>
                                 </div>
                             </div>
                             <!-- single slider End-->
@@ -105,7 +105,7 @@
                                     </div>
                                 </div>
                                 <div class="product-right" style="display:flex; justify-content: end;">
-                                    <a href="explore-single.html" class="rts-btn btn-secondary radious-5">Play</a>
+                                    <a href="" class="rts-btn btn-secondary radious-5">Play</a>
                                 </div>
                             </div>
                             <!-- single slider End-->
