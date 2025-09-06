@@ -9,8 +9,8 @@
                 <!-- Logo -->
                 <div>
                     <a href="#" class="logo">
-                        <img loading="lazy" src="assets/images/logo/brand/augmee-transparent.png"
-                            style="width: 120px; height: auto;" alt="NFT_image">
+                        <img loading="lazy" src="assets/images/logo/brand/Maskot.png"
+                            style="margin-top:3rem; width: 120px; height: auto;" alt="NFT_image">
                     </a>
                 </div>
 
@@ -41,7 +41,7 @@
     <div class="inner">
         <div class="header-top">
             <div class="logo logo-custom-css">
-                <a href="index.html"><img src="assets/images/logo/logo-01.svg" loading="lazy" alt="_logo"></a>
+                <a href="#"><img src="assets/images/logo/logo-01.svg" loading="lazy" alt="_logo"></a>
             </div>
             <div class="close-menu">
                 <button class="close-button">
@@ -52,62 +52,14 @@
         <!-- nav style Start -->
         <nav>
             <ul class="main-menu">
-                <li class="single-items rts-dropdown">
-                    <a class="navmain" href="#">Home</a>
-                    <ul class="submenu">
-                        <li class="single"><a href="index.html">Home page - 01 <i class="feather-home"></i></a>
-                        </li>
-                        <li class="single"><a href="index-two.html">Home page - 02<i class="feather-home"></i></a>
-                        </li>
-                        <li class="single"><a href="index-three.html">Home page - 03<i class="feather-home"></i></a>
-                        </li>
-                        <li class="single"><a href="index-four.html">Home page - 04<i class="feather-home"></i></a>
-                        </li>
-                        <li class="single"><a href="index-five.html">Home page - 05<i class="feather-home"></i></a>
-                        </li>
-                        <li class="single"><a href="index-six.html">Home page - 06<i class="feather-home"></i></a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="single-items rts-dropdown">
-                    <a class="navmain" href="#">Pages</a>
-                    <ul class="submenu pages">
-                        <li><a href="about.html">About Page<i class="feather-home"></i></a></li>
-                        <li><a href="team.html">Our Team<i class="feather-home"></i></a></li>
-                        <li><a href="team-single.html">Our Team Details<i class="feather-home"></i></a></li>
-                        <li><a href="error.html">Error 404<i class="feather-home"></i></a></li>
-                        <li><a href="cart.html">Cart Page<i class="feather-home"></i></a></li>
-                        <li><a href="ranking.html">Ranking Page<i class="feather-home"></i></a></li>
-                        <li><a href="wallet.html">Wallet<i class="feather-home"></i></a></li>
-                        <li><a href="create.html">Create Page<i class="feather-home"></i></a></li>
-                        <li><a href="login.html">Login Page<i class="feather-home"></i></a></li>
-                        <li><a href="registration.html">Registration Page<i class="feather-home"></i></a></li>
-                        <li><a href="check-out.html">Check Out<i class="feather-home"></i></a></li>
-                        <li><a href="activity.html">Activity<i class="feather-home"></i></a></li>
-                        <li><a href="contact.html">Contact Us<i class="feather-home"></i></a></li>
-                        <li><a href="shop.html">Shop Page<i class="feather-home"></i></a></li>
-                        <li><a href="shop-single.html">Shop Details<i class="feather-home"></i></a></li>
-                        <li><a href="collectors.html">Collectors<i class="feather-home"></i></a></li>
-                        <li><a href="author.html">Author<i class="feather-home"></i></a></li>
-                    </ul>
-                </li>
-                <li class="single-items rts-dropdown">
-                    <a class="navmain" href="#">Explore</a>
-                    <ul class="submenu explore">
-                        <li class="single"><a href="explore-one.html">Explore One<i class="feather-home"></i></a>
-                        </li>
-                        <li class="single"><a href="explore-two.html">Explore Two<i class="feather-home"></i></a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="single-items rts-dropdown">
-                    <a class="navmain" href="#">Blog</a>
-                    <ul class="submenu blog">
-                        <li class="single"> <a href="blog.html">Our Blog</a></li>
-                        <li class="single"> <a href="blog-single.html">Blog single</a></li>
-                    </ul>
-                </li>
-                <li class="single-items off-arrow"><a class="navmain" href="contact.html">Contact</a></li>
+                <a class="navmain" href="#">Home</a>
+                <ul class="submenu">
+                    <li class="single-items off-arrow"><a class="single" href="#hero">Home</a></li>
+                    <li class="single-items off-arrow"><a class="single" href="#services">Services</a></li>
+                    <li class="single-items off-arrow"><a class="single" href="#core">Core</a></li>
+                    <li class="single-items off-arrow"><a class="single" href="#portfolio">Portfolio</a></li>
+                    <li class="single-items off-arrow"><a class="single" href="#contact">Contact</a></li>
+                </ul>
             </ul>
         </nav>
         <!-- nav style hear End -->
