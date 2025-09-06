@@ -1,6 +1,6 @@
 <!-- start header area -->
 
-<div class="rts-header-area header-inner-one header-two header--sticky" style="background-color: mediumslateblue">
+<div class="rts-header-area header-inner-one header-two header--sticky">
     <div class="container-header">
         <div class="row align-items-center ptb_sm--20 padding-controler-header">
 
