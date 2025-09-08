@@ -6,7 +6,7 @@
                     style="display: flex;justify-content:center;text-align:center;">
                     <div>
                         <a href="#"><img src="assets/images/logo/brand/Maskot-no-bg.png"
-                                style="width: 10%; margin-bottom:2rem" loading="lazy" alt="logo" data-sal-delay="150"
+                                style="width: 20%; margin-bottom:2rem" loading="lazy" alt="logo" data-sal-delay="150"
                                 data-sal-duration="800" data-sal="slide-up"></a>
                         <h2 class="disc" data-sal-delay="150" data-sal-duration="1000" data-sal="slide-up">
                             <span style="color: #acacac"> Let’s build

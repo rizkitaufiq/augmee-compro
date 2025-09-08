@@ -35,15 +35,27 @@
         @media only screen and (min-width: 360px) and (max-width: 991px) {
             .nav-mobile-menu {
                 display: flex;
-                justify-content: start;
-                justify-items: start;
+                justify-content: center;
+                justify-items: center;
                 align-items: center;
+                text-align: center;
                 gap: 0;
                 margin: 0;
             }
 
-            .nav-mobile img {
-                display: none;
+            .mainmenu-nav ul.main-menu li a {
+                padding: 0;
+                font-size: 10px;
+                padding-top: 2rem;
+                padding-bottom: 2rem;
+                display: flex;
+                align-items: center;
+                color: #fff;
+            }
+
+            .logo {
+                width: !important 3rem;
+                height: auto;
             }
         }
     </style>

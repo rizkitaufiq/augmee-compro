@@ -4,14 +4,13 @@
     <div class="container-header">
         <div class="row align-items-center ptb_sm--20 padding-controler-header">
 
-            <div class="nav-mobile-menu"
-                style="display: flex; align-items: center; justify-content: flex-start; width: 100%; gap: 20px;">
+            <div class="nav-mobile-menu" style="display: flex; align-items: center; width: 100%;">
 
                 <!-- Logo -->
                 <div>
-                    <a href="#" class="logo">
-                        <img loading="lazy" src="assets/images/logo/brand/Maskot-no-bg.png"
-                            style="width: 5rem; height: auto;" alt="image">
+                    <a href="#">
+                        <img class="logo" loading="lazy" src="assets/images/logo/brand/Maskot-no-bg.png"
+                            style="width: 4rem; height: auto;" alt="image">
                     </a>
                 </div>
 
@@ -19,7 +18,7 @@
                 <div class="nav-mobile-menu">
                     <nav class="mainmenu-nav d-xl-block">
                         <ul class="main-menu"
-                            style="display: flex; gap: 20px; margin: 0; padding: 0; list-style: none;">
+                            style="display: flex; align-items: center; justify-content: start; text-align:left; list-style: none;">
                             <li class="single-items off-arrow"><a class="single" href="#hero">Home</a></li>
                             <li class="single-items off-arrow"><a class="single" href="#services">Services</a></li>
                             <li class="single-items off-arrow"><a class="single" href="#core">Core</a></li>
