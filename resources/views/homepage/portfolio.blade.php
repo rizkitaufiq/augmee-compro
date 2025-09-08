@@ -18,7 +18,7 @@
                             <div class="trending-items_wrapper"
                                 style="display:flex; flex-direction:column; justify-content:space-between; height:100%; min-height:450px; padding:1rem; box-sizing:border-box;">
                                 <div class="thumbnail">
-                                    <a href="explore-single.html"><img
+                                    <a href="#portfolio"><img
                                             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
                                             src="assets/images/product/game/working-at-heights-training.webp"
                                             loading="lazy" alt="Nft_product"></a>
@@ -50,7 +50,7 @@
                             <div class="trending-items_wrapper"
                                 style="display:flex; flex-direction:column; justify-content:space-between; height:100%; min-height:450px; padding:1rem; box-sizing:border-box;">
                                 <div class="thumbnail">
-                                    <a href="explore-single.html"><img
+                                    <a href="#portfolio"><img
                                             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
                                             src="assets/images/product/game/confined-space-training.webp" loading="lazy"
                                             alt="Nft_product"></a>
@@ -83,7 +83,7 @@
                             <div class="trending-items_wrapper"
                                 style="display:flex; flex-direction:column; justify-content:space-between; height:100%; min-height:450px; padding:1rem; box-sizing:border-box;">
                                 <div class="thumbnail">
-                                    <a href="explore-single.html"><img
+                                    <a href="#portfolio"><img
                                             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
                                             src="assets/images/product/game/fire-extingsher-simulation.webp"
                                             loading="lazy" alt="Nft_product"></a>
