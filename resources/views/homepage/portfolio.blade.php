@@ -20,7 +20,7 @@
                                 <div class="thumbnail">
                                     <a href="explore-single.html"><img
                                             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
-                                            src="assets/images/product/game/working-at-heights-training.jpg"
+                                            src="assets/images/product/game/working-at-heights-training.webp"
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription" style="flex-grow:1; margin:1rem 0;">
@@ -52,7 +52,7 @@
                                 <div class="thumbnail">
                                     <a href="explore-single.html"><img
                                             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
-                                            src="assets/images/product/game/confined-space-training.jpg" loading="lazy"
+                                            src="assets/images/product/game/confined-space-training.webp" loading="lazy"
                                             alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription" style="flex-grow:1; margin:1rem 0;">
@@ -85,7 +85,7 @@
                                 <div class="thumbnail">
                                     <a href="explore-single.html"><img
                                             style="width:100%; height:200px; object-fit:cover; border-radius:8px;"
-                                            src="assets/images/product/game/fire-extingsher-simulation.jpg"
+                                            src="assets/images/product/game/fire-extingsher-simulation.webp"
                                             loading="lazy" alt="Nft_product"></a>
                                 </div>
                                 <div class="product-discription" style="flex-grow:1; margin:1rem 0;">

@@ -26,6 +26,26 @@
         html {
             scroll-behavior: smooth;
         }
+
+        .nav-mobile {
+            font-size: 24px;
+            gap: 5rem;
+        }
+
+        @media only screen and (min-width: 360px) and (max-width: 991px) {
+            .nav-mobile-menu {
+                display: flex;
+                justify-content: start;
+                justify-items: start;
+                align-items: center;
+                gap: 0;
+                margin: 0;
+            }
+
+            .nav-mobile img {
+                display: none;
+            }
+        }
     </style>
     {{-- Header --}}
     @include('layouts.header')

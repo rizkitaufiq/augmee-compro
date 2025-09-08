@@ -1,16 +1,15 @@
     <!-- start Footer area -->
-    <div class="rts-footer-area bg-shape-footer pt--120 rt_bg-secondary" id="contact"
-        style="background-color: mediumslateblue">
+    <div class="rts-footer-area bg-shape-footer pt--120 rt_bg-secondary" id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 mb_sm--30 "
                     style="display: flex;justify-content:center;text-align:center;">
                     <div>
-                        <a href="#"><img src="assets/images/logo/brand/augmee-transparent.png"
-                                style="width: 30%; margin-bottom:2rem" loading="lazy" alt="Nft_logo" data-sal-delay="150"
+                        <a href="#"><img src="assets/images/logo/brand/Maskot-no-bg.png"
+                                style="width: 10%; margin-bottom:2rem" loading="lazy" alt="logo" data-sal-delay="150"
                                 data-sal-duration="800" data-sal="slide-up"></a>
                         <h2 class="disc" data-sal-delay="150" data-sal-duration="1000" data-sal="slide-up">
-                            <span style="color: #4a11ad"> Let’s build
+                            <span style="color: #acacac"> Let’s build
                                 the future,</span> one experience at a time.
                         </h2>
 

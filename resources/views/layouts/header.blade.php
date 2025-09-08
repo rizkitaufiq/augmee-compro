@@ -4,19 +4,20 @@
     <div class="container-header">
         <div class="row align-items-center ptb_sm--20 padding-controler-header">
 
-            <div style="display: flex; align-items: center; justify-content: flex-start; width: 100%; gap: 20px;">
+            <div class="nav-mobile-menu"
+                style="display: flex; align-items: center; justify-content: flex-start; width: 100%; gap: 20px;">
 
                 <!-- Logo -->
                 <div>
                     <a href="#" class="logo">
-                        <img loading="lazy" src="assets/images/logo/brand/Maskot.png"
-                            style="margin-top:3rem; width: 120px; height: auto;" alt="NFT_image">
+                        <img loading="lazy" src="assets/images/logo/brand/Maskot-no-bg.png"
+                            style="width: 5rem; height: auto;" alt="image">
                     </a>
                 </div>
 
                 <!-- Menu -->
-                <div>
-                    <nav class="mainmenu-nav d-none d-xl-block">
+                <div class="nav-mobile-menu">
+                    <nav class="mainmenu-nav d-xl-block">
                         <ul class="main-menu"
                             style="display: flex; gap: 20px; margin: 0; padding: 0; list-style: none;">
                             <li class="single-items off-arrow"><a class="single" href="#hero">Home</a></li>
