@@ -81,21 +81,21 @@
     <!-- progress Back to top End -->
 
     <!-- all scripts are hear -->
-    <script src="assets/js/vendor/jquery.min.js"></script>
-    <script src="assets/js/vendor/jquery-ui.min.js"></script>
-    <script src="assets/js/plugins/nice-select.js"></script>
-    <script src="assets/js/vendor/waypoint.js"></script>
-    <script src="assets/js/vendor/swiper.js"></script>
-    <script src="assets/js/vendor/count-down.js"></script>
-    <script src="assets/js/vendor/isotop.min.js"></script>
-    <script src="assets/js/vendor/counterup.min.js"></script>
-    <script src="assets/js/plugins/sal.min.js"></script>
-    <script src="assets/js/plugins/paper-core.js"></script>
-    <script src="assets/js/plugins/simplex-nois.js"></script>
-    <script src="assets/js/plugins/contact-form.js"></script>
+    <script src="assets/js/vendor/jquery.min.js" defer></script>
+    <script src="assets/js/vendor/jquery-ui.min.js" defer></script>
+    <script src="assets/js/plugins/nice-select.js" defer></script>
+    <script src="assets/js/vendor/waypoint.js" defer></script>
+    <script src="assets/js/vendor/swiper.js" defer></script>
+    <script src="assets/js/vendor/count-down.js" defer></script>
+    <script src="assets/js/vendor/isotop.min.js" defer></script>
+    <script src="assets/js/vendor/counterup.min.js" defer></script>
+    <script src="assets/js/plugins/sal.min.js" defer></script>
+    <script src="assets/js/plugins/paper-core.js" defer></script>
+    <script src="assets/js/plugins/simplex-nois.js" defer></script>
+    <script src="assets/js/plugins/contact-form.js" defer></script>
 
-    <script src="assets/js/vendor/imageloded.js"></script>
-    <script src="assets/js/vendor/bootstrap.min.js"></script>
+    <script src="assets/js/vendor/imageloded.js" defer></script>
+    <script src="assets/js/vendor/bootstrap.min.js" defer></script>
 
     <!-- main js -->
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/main.js" async></script>
