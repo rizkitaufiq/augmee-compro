@@ -5,7 +5,7 @@
             <div class="col-lg-5">
                 <div class="about-two-left">
                     <div class="thumbnail">
-                        <img src="assets/images/about/about-06.png" loading="lazy" alt="Nft_profile">
+                        <img src="assets/images/about/about-06.png" loading="lazy" alt="profile">
                         {{-- <div class="about-badge nft">
                             <p class="user">Project</p>
                             <!-- those who use  -->

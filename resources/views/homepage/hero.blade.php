@@ -29,7 +29,7 @@
             </div>
             <div class="col-xl-5 col-lg-4 offset-xl-2 order-lg-1 order-md-1 order-sm-1">
                 <div class="banner-three-right-wrapper">
-                    <img src="assets/images/banner/banner-three.png" loading="lazy" alt="Nft_banner">
+                    <img src="assets/images/banner/about-07.webp" loading="lazy" alt="banner">
                 </div>
             </div>
         </div>
