@@ -6,23 +6,6 @@
                 <div class="about-two-left">
                     <div class="thumbnail">
                         <img src="assets/images/about/about-06.png" loading="lazy" alt="profile">
-                        {{-- <div class="about-badge nft">
-                            <p class="user">Project</p>
-                            <!-- those who use  -->
-                            <div class="-user">
-                                <img loading="lazy" data-tooltip="Jordan" class="user avatar user-1"
-                                    src="assets/images/about/user-icon/user-01.png" alt="NFT_User">
-                                <img loading="lazy" class="user user-2" src="assets/images/about/user-icon/user-02.png"
-                                    alt="NFT_User">
-                                <img loading="lazy" class="user user-3" src="assets/images/about/user-icon/user-03.png"
-                                    alt="NFT_User">
-                                <img loading="lazy" class="user user-4" src="assets/images/about/user-icon/user-04.png"
-                                    alt="NFT_User">
-                                <img loading="lazy" class="user user-5" src="assets/images/about/user-icon/user-05.png"
-                                    alt="NFT_User">
-                            </div>
-                            <!-- those who use  -->
-                        </div> --}}
                     </div>
                 </div>
             </div>
