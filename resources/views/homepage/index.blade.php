@@ -6,5 +6,6 @@
         @include('homepage.services')
         @include('homepage.core-value')
         @include('homepage.portfolio')
+        @include('homepage.browse')
     </section>
 @endsection
