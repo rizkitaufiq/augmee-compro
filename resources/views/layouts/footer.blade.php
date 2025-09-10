@@ -19,10 +19,10 @@
 
                         <div class="social-wrapper" style="display:flex; justify-content:center;">
                             <div style="display: flex; flex-direction:column; justify-content:center;">
-                                <p style="margin: 0;font-weight: bold">WhatsApp : <a href="https://wa.me/08">
-                                        082322xxxxx</a></p>
-                                <p style="margin: 0;font-weight: bold">Email : <a href="mailto:example@gmail.com">
-                                        example@gmail.com</a></p>
+                                <p style="margin: 0;font-weight: bold">WhatsApp : <a href="https://wa.me/081353448711">
+                                        081353448711</a></p>
+                                <p style="margin: 0;font-weight: bold">Email : <a href="mailto:augmee.co.id@gmail.com">
+                                        augmee.co.id@gmail.com</a></p>
                             </div>
                         </div>
 
